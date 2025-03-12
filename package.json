@@ -86,5 +86,13 @@
     "url": "https://github.com/TranLe95711/ck23v7k533_LeTruongNhuTran_Backend/issues"
   },
   "homepage": "https://github.com/TranLe95711/ck23v7k533_LeTruongNhuTran_Backend#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.22.0",
+    "eslint": "^9.22.0",
+    "eslint-config-prettier": "^10.1.1",
+    "eslint-plugin-react": "^7.37.4",
+    "globals": "^16.0.0",
+    "prettier": "^3.5.3"
+  }
 }
